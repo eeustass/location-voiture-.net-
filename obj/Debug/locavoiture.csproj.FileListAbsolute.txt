@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\locavoiture\bin\Debug\locavoiture.exe.config
+C:\Users\ACER\source\repos\locavoiture\bin\Debug\locavoiture.exe
+C:\Users\ACER\source\repos\locavoiture\bin\Debug\locavoiture.pdb
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.Properties.Resources.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.exe
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.pdb
+C:\Users\ACER\source\repos\locavoiture\bin\Debug\Guna.UI.dll
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.charg.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoit.EC4BCA90.Up2Date
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.connect.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.menu.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.UserControl1.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.UserControl2.resources
+C:\Users\ACER\source\repos\locavoiture\obj\Debug\locavoiture.Form1.resources
